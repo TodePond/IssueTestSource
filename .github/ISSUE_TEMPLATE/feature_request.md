@@ -1,3 +1,4 @@
+---
 name: Feature request
 description: File a feature request
 title: "[Feature]: "
@@ -33,3 +34,4 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+---
