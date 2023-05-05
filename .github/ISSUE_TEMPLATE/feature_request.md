@@ -1,6 +1,6 @@
 ---
 name: Feature request
-description: File a feature request
+about: File a feature request
 title: "[Feature]: "
 labels: ["feature", "triage"]
 assignees:
